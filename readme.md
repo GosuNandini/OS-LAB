@@ -14,4 +14,4 @@
 ![SJF execution](SJF_557.png)
 
 # SJF tested output
-![SJF tested output](SJF_output_557.png,png)
+![SJF tested output](SJF_output_557.png.png)
