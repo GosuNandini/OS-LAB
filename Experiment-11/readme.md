@@ -1,5 +1,5 @@
 # program file
-![program file](Dining philosophers_557.py)
+![program file](Dining philosophers_557.py.py)
 
 # program image
 ![program image](Dining philosophers_557.png)
